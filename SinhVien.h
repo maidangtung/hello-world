@@ -8,7 +8,7 @@ using namespace std;
 class SinhVien{
 	protected:
 		int MSSV,NamSinh;
-		char HoTen[50];
+		char HoTen[40];
 		float Diem [12],Dtb;
 	public:
 		//SinhVien();
